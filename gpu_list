@@ -1,39 +1,39 @@
-PCI	10de	NVIDIA Corporation	25e0	GA107BM [GeForce RTX 3050 Ti Mobile]
-PCI	10de	NVIDIA Corporation	25e2	GA107BM [GeForce RTX 3050 Mobile]
-PCI	10de	NVIDIA Corporation	25e5	GA107BM [GeForce RTX 3050 Mobile]
-PCI	10de	NVIDIA Corporation	25a9	GA107M [GeForce RTX 2050]
-PCI	10de	NVIDIA Corporation	25aa	GA107M [GeForce MX570 A]
-PCI	10de	NVIDIA Corporation	25b6	GA107GL [A2 / A16]
-PCI	10de	NVIDIA Corporation	25a0	GA107M [GeForce RTX 3050 Ti Mobile]
-PCI	10de	NVIDIA Corporation	25a2	GA107M [GeForce RTX 3050 Mobile]
-PCI	10de	NVIDIA Corporation	25e0	GA107BM [GeForce RTX 3050 Ti Mobile]
-PCI	10de	NVIDIA Corporation	2504	GA106 [GeForce RTX 3060 Lite Hash Rate]
-PCI	10de	NVIDIA Corporation	2503	GA106 [GeForce RTX 3060]
-PCI	10de	NVIDIA Corporation	2484	GA104 [GeForce RTX 3070]
-PCI	10de	NVIDIA Corporation	2203	GA102 [GeForce RTX 3090 Ti]
-PCI	10de	NVIDIA Corporation	220a	GA102 [GeForce RTX 3080 12GB]
-PCI	10de	NVIDIA Corporation	2204	GA102 [GeForce RTX 3090]
-PCI	10de	NVIDIA Corporation	2205	GA102 [GeForce RTX 3080 Ti 20GB]
-PCI	10de	NVIDIA Corporation	2187	TU116 [GeForce GTX 1650 SUPER]
-PCI	10de	NVIDIA Corporation	2188	TU116 [GeForce GTX 1650]
-PCI	10de	NVIDIA Corporation	2191	TU116M [GeForce GTX 1660 Ti Mobile]
-PCI	10de	NVIDIA Corporation	2192	TU116M [GeForce GTX 1650 Ti Mobile]
-PCI	10de	NVIDIA Corporation	21c4	TU116 [GeForce GTX 1660 SUPER]
-PCI	10de	NVIDIA Corporation	1f9d	TU117M [GeForce GTX 1650 Mobile / Max-Q]
-PCI	10de	NVIDIA Corporation	1f12	TU106M [GeForce RTX 2060 Max-Q]
-PCI	10de	NVIDIA Corporation	1f14	TU106M [GeForce RTX 2070 Mobile / Max-Q Refresh]
-PCI	10de	NVIDIA Corporation	1f15	TU106M [GeForce RTX 2060 Mobile]
-PCI	10de	NVIDIA Corporation	1f36	TU106GLM [Quadro RTX 3000 Mobile / Max-Q]
-PCI	10de	NVIDIA Corporation	1f42	TU106 [GeForce RTX 2060 SUPER]
-PCI	10de	NVIDIA Corporation	1f50	TU106BM [GeForce RTX 2070 Mobile / Max-Q]
-PCI	10de	NVIDIA Corporation	1f47	TU106 [GeForce RTX 2060 SUPER]
-PCI	10de	NVIDIA Corporation	1f51	TU106BM [GeForce RTX 2060 Mobile]
-PCI	10de	NVIDIA Corporation	1f54	TU106BM [GeForce RTX 2070 Mobile]
-PCI	10de	NVIDIA Corporation	1f02	TU106 [GeForce RTX 2070]
-PCI	10de	NVIDIA Corporation	1eb8	TU104GL [Tesla T4]
-PCI	10de	NVIDIA Corporation	1e78	TU102GL [Quadro RTX 6000/8000]
-PCI	10de	NVIDIA Corporation	1d01	GP108 [GeForce GT 1030]
-PCI	10de	NVIDIA Corporation	1d02	GP108 [GeForce GT 1010]
-PCI	10de	NVIDIA Corporation	1d16	GP108M [GeForce MX330]
-PCI	10de	NVIDIA Corporation	1d13	GP108M [GeForce MX250]
-PCI	10de	NVIDIA Corporation	1d12	GP108M [GeForce MX150]
+PCI	10de	NVIDIA Corporation	25e0	GA107BM [GeForce RTX 3050 Ti Mobile]	4
+PCI	10de	NVIDIA Corporation	25e2	GA107BM [GeForce RTX 3050 Mobile]	4
+PCI	10de	NVIDIA Corporation	25e5	GA107BM [GeForce RTX 3050 Mobile]	4
+PCI	10de	NVIDIA Corporation	25a9	GA107M [GeForce RTX 2050]	4
+PCI	10de	NVIDIA Corporation	25aa	GA107M [GeForce MX570 A]	2
+PCI	10de	NVIDIA Corporation	25b6	GA107GL [A2 / A16]	12
+PCI	10de	NVIDIA Corporation	25a0	GA107M [GeForce RTX 3050 Ti Mobile]	4	
+PCI	10de	NVIDIA Corporation	25a2	GA107M [GeForce RTX 3050 Mobile]	4
+PCI	10de	NVIDIA Corporation	25e0	GA107BM [GeForce RTX 3050 Ti Mobile]	4
+PCI	10de	NVIDIA Corporation	2504	GA106 [GeForce RTX 3060 Lite Hash Rate]	8
+PCI	10de	NVIDIA Corporation	2503	GA106 [GeForce RTX 3060]	8
+PCI	10de	NVIDIA Corporation	2484	GA104 [GeForce RTX 3070]	8
+PCI	10de	NVIDIA Corporation	2203	GA102 [GeForce RTX 3090 Ti]	24
+PCI	10de	NVIDIA Corporation	220a	GA102 [GeForce RTX 3080 12GB]	12
+PCI	10de	NVIDIA Corporation	2204	GA102 [GeForce RTX 3090]	20
+PCI	10de	NVIDIA Corporation	2205	GA102 [GeForce RTX 3080 Ti 20GB]	20
+PCI	10de	NVIDIA Corporation	2187	TU116 [GeForce GTX 1650 SUPER]	4
+PCI	10de	NVIDIA Corporation	2188	TU116 [GeForce GTX 1650]	4
+PCI	10de	NVIDIA Corporation	2191	TU116M [GeForce GTX 1660 Ti Mobile]	6
+PCI	10de	NVIDIA Corporation	2192	TU116M [GeForce GTX 1650 Ti Mobile]	4
+PCI	10de	NVIDIA Corporation	21c4	TU116 [GeForce GTX 1660 SUPER]	6
+PCI	10de	NVIDIA Corporation	1f9d	TU117M [GeForce GTX 1650 Mobile / Max-Q]	6
+PCI	10de	NVIDIA Corporation	1f12	TU106M [GeForce RTX 2060 Max-Q]	8
+PCI	10de	NVIDIA Corporation	1f14	TU106M [GeForce RTX 2070 Mobile / Max-Q Refresh]	8
+PCI	10de	NVIDIA Corporation	1f15	TU106M [GeForce RTX 2060 Mobile]	6
+PCI	10de	NVIDIA Corporation	1f36	TU106GLM [Quadro RTX 3000 Mobile / Max-Q]	6
+PCI	10de	NVIDIA Corporation	1f42	TU106 [GeForce RTX 2060 SUPER]	8
+PCI	10de	NVIDIA Corporation	1f50	TU106BM [GeForce RTX 2070 Mobile / Max-Q]	8
+PCI	10de	NVIDIA Corporation	1f47	TU106 [GeForce RTX 2060 SUPER]	8
+PCI	10de	NVIDIA Corporation	1f51	TU106BM [GeForce RTX 2060 Mobile]	6
+PCI	10de	NVIDIA Corporation	1f54	TU106BM [GeForce RTX 2070 Mobile]	8
+PCI	10de	NVIDIA Corporation	1f02	TU106 [GeForce RTX 2070]	8
+PCI	10de	NVIDIA Corporation	1eb8	TU104GL [Tesla T4]	16
+PCI	10de	NVIDIA Corporation	1e78	TU102GL [Quadro RTX 6000/8000]	48
+PCI	10de	NVIDIA Corporation	1d01	GP108 [GeForce GT 1030]	2
+PCI	10de	NVIDIA Corporation	1d02	GP108 [GeForce GT 1010]	2
+PCI	10de	NVIDIA Corporation	1d16	GP108M [GeForce MX330]	2
+PCI	10de	NVIDIA Corporation	1d13	GP108M [GeForce MX250]	2
+PCI	10de	NVIDIA Corporation	1d12	GP108M [GeForce MX150]	2
